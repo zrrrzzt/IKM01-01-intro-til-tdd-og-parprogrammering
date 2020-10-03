@@ -18,7 +18,17 @@ En introduksjon til testdrevet utvikling og parprogrammering
 - I terminalen skriver du `npm run setup`
 - Da er vi klare
 
+# Innholdfortegnelse
+
+- [TDD](docs/tdd.md)
+- [Parprogrammering](docs/parprogrammering.md)
+- [Mobprogrammering](docs/mobprogrammering)
+
+## Oppgaver
+
+- [TDD](oppgaver/tdd-oppgave.md)
+- [Parprogrammering](oppgaver/pargprogrammering-oppgave)
+
 # Lisens
 
 [MIT](LICENSE)
-

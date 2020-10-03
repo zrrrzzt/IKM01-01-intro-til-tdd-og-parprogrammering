@@ -27,7 +27,7 @@ En introduksjon til testdrevet utvikling og parprogrammering
 ## Oppgaver
 
 - [TDD](oppgaver/tdd-oppgave.md)
-- [Parprogrammering](oppgaver/pargprogrammering-oppgave.md)
+- [Parprogrammering](oppgaver/parprogrammering-oppgave.md)
 
 # Lisens
 

@@ -70,7 +70,7 @@ For å få best mulig utbytte av testene bør de være
 
 - TDD funker fint alene, men enda bedre med [parprogrammering](parprogrammering.md)
 
-## Kilder
+## Kilder/videre inspirasjon
 
 - https://dev.to/wolfdominion/introduction-to-tdd-what-it-is-and-why-it-is-important-2hhf
 - https://dev.to/rafinskipg/a-beginners-guide-to-tdd-javascript-2oj9

@@ -49,7 +49,15 @@ Parprogrammering kan være ganske intenst og det er lurt å ikke legge opp til f
 
 # Oppgave
 
+Dere skal lage verdens kuleste funksjon. Det viktigste i verden er å vite når man har fri derfor skal dere utvikle funksjonen harjegfri.
 
+Funksjonen skal svare 'ja' alle dager du har fri og 'nei' på dager du ikke har fri.
+
+Grunnoppsettet for kode ligger i filen [lib/harjegfri.js](../lib/harjegfri.js) og testfil er klargjort på [test/harjegfri.test.js](../test/harjegfri.test.js)
+
+For å endre testmiljøet til å bare bry seg om å teste den nye funksjonen må du også endre [ava.config.cjs](ava.config.cjs)
+
+![Viser ny ava config](../images/ava.config.png)
 
 # Kilder/videre inspirasjon
 

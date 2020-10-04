@@ -8,6 +8,8 @@
 
 const test = require('ava')
 const { addisjon } = require('../lib/kalkulator')
+// Tips til oppgaven
+//const { addisjon, subtraksjon } = require('../lib/kalkulator')
 
 /**
  * Som bruker ønsker jeg at addisjon av 1 + 3 gir svaret 4
@@ -18,11 +20,20 @@ test('addisjon av 1 + 3 gir 4', t => {
 })
 
 /**
+ * OPPGAVER OPPGAVER OPPGAVER OPPGAVER OPPGAVER
+ */
+
+/**
  * Som bruker ønsker jeg at subtraksjon av 3 - 1 gir svaret 2
  * for at jeg skal kunne vite at kalkulatoren min fungerer
  */
 
 // ---- skriv testen for denne brukerhistorien her
+
+// Gratis tips :-)
+//test('subtraksjon av 3 - 1 gir 2', t => {
+//  t.is(subtraksjon(3, 1), 2, 'subtraksjon av 3 - 1 er ok')
+//})
 
 /**
  * Som bruker ønsker jeg at multiplikasjon av 2 * 2 gir svaret 4

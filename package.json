@@ -5,7 +5,8 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "test": "ava",
+    "test": "ava -v ",
+    "watch:test": "ava -w -v",
     "setup": "npm i",
     "refresh": "rm -rf node_modules && rm package-lock.json && npm i"
   },

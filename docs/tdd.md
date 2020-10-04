@@ -32,3 +32,19 @@ Det er for eksempel ikke så tydelig å lese koden og forstå hva a og b er.
 Vi kan for eksempel erstatte de med tall1 og tall2, eller bruke det helt korrekte addend1 og addend2
 
 ![Funksjon som returnerer summen av 2 tall](../images/kalkulator-trinn-3.png)
+
+# Oppgave
+
+Koden vi har laget nå ligger i filen [lib/kalkulator.js](../lib/kalkulator.js).
+Testene ligger i [test/kalkulator.test.js](../test/kalkulator.test.js)
+
+Disse filene skal du nå jobbe videre med selv.
+Oppgavene er at du skal implementere funksjonalitet for subtraksjon, multiplikasjon og divisjon i kalkulatoren.
+Brukerhistoriene ligger som kommentarer i testfilen.
+
+For å kjøre testene åpner du terminalen i VS Code (View => Terminal) og du skriver `npm test` for at den skal kjøre testen.
+
+Tips: Om du vil testene skal kjøre hver gang du lagrer kan du bruke `npm run watch:test`.
+Når du vil slå av automatikken bruker du tastekombinasjonen [control] + [c]. Det kommer en stygg feilmelding, men det er helt ok :-)
+
+

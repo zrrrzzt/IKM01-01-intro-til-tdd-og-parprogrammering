@@ -24,11 +24,6 @@ En introduksjon til testdrevet utvikling og parprogrammering
 - [Parprogrammering](docs/parprogrammering.md)
 - [Mobprogrammering](docs/mobprogrammering.md)
 
-## Oppgaver
-
-- [TDD](oppgaver/tdd-oppgave.md)
-- [Parprogrammering](oppgaver/parprogrammering-oppgave.md)
-
 # Lisens
 
 [MIT](LICENSE)

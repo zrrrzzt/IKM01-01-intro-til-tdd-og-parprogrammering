@@ -2,7 +2,7 @@
 
 En introduksjon til testdrevet utvikling og parprogrammering.
 
-Vi skal kun skrape litt på overflaten, men jeg håper det er nok til at du forstår nok til få lyst til å prøve videre på egenhånd.
+Vi skal bare skrape litt på overflaten, men jeg håper det er nok til at du forstår det grunnleggende og får lyst til å prøve videre på egenhånd.
 
 ## Om workshopen
 

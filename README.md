@@ -1,6 +1,8 @@
 # IKM01-01-intro-til-tdd-og-parprogrammering
 
-En introduksjon til testdrevet utvikling og parprogrammering
+En introduksjon til testdrevet utvikling og parprogrammering.
+
+Vi skal kun skrape litt på overflaten, men jeg håper det er nok til at du forstår nok til få lyst til å prøve videre på egenhånd.
 
 ## Om workshopen
 

@@ -21,28 +21,28 @@ Parprogrammering kan være ganske intenst og det er lurt å ikke legge opp til f
 
 ## Tips til hvordan man forbereder seg og gjennomfører en god økt
 
-1. Forberedelser
+### 1. Forberedelser
   - Sett av tid, gjerne 2 - 4 timer
   - Sjekk hvordan dere har det. Trenger dere ta det rolig i dag? Er det andre hensyn å ta?
   - Lag en plan om hva dere vil oppnå i løpet av økten
   - Lag gode arbeidsforhold. Sitt godt. Se skjermen begge to.
-2. Jobb tett sammen
+### 2. Jobb tett sammen
   - Følg planen
   - Bruk TDD
   - Diskuter undervegs
-3. Lær og lag et godt læringsmiljø
+### 3. Lær og lag et godt læringsmiljø
   - Forklar hva du gjør og hvorfor
   - Spør om du lurer på noe
   - Ingen forslag er dumme
-4. Få en god arbeidsrytme
+### 4. Få en god arbeidsrytme
   - Bli enige om passende tidsintervaller
   - Ved TDD kan dere bytte når dere har skrevet fungerende gode og laget den neste testen som feiler
   - Alle små suksesser må feires :-) F.eks. alle grønne tester
-5. Kommuniser effektivt
+### 5. Kommuniser effektivt
   - Vær åpne om dere faller av eller ikke er enige
   - Snakk rolig sammen
   - Vent med å påpeke eventuelle feil til sjåførern er ferdig, kanskje oppdager hen det selv
-6. Elsk utfordringer
+### 6. Elsk utfordringer
   - Det kan være vanskelig å samarbeide, se på det som læring
   - Snakk om hva som ikke funket og hvorfor
   - Snakk om hva som gikk bra og hvorfor

@@ -15,7 +15,7 @@ Den vanligste måten å gjennomføre parprogrammering er at man har en sjåfør 
 - Navigatøren leser over koden og formulerer hva som skal gjøres
 - Etter avtalt til bytter man rolle
 
-Man snakker mye sammen undervegs og på den måten passer man på at kunnskap blir delt og at dere har samme forståelse av problemet som skal løses.
+Dere snakker mye sammen undervegs og på den måten passer man på at kunnskap blir delt og at dere har samme forståelse av problemet som skal løses.
 
 Parprogrammering kan være ganske intenst og det er lurt å ikke legge opp til for lange sesjoner av gangen.
 
@@ -62,6 +62,15 @@ For å endre testmiljøet til å bare bry seg om å teste den nye funksjonen må
 Dere kan prøve å lage deres egne brukerhistorier.
 
 Hvis ikke kan dere følge de som er laget i [docs/brukerhistorier.md](brukerhistorier.md)
+
+# Oppsummering
+
+Parprogrammering er en godt måte å spre kompetanse på.
+Kommunikasjon er viktig.
+Det kan være ganske intenst, så husk å ta gode pauser.
+Parprogrammering krever trening, så ikke gi opp om det ikke fungerer med en gang.
+
+Men, det finnes også gode metoder å løses problemer på dersom dere er mer enn to og kanskje også jobber sammen med personer som ikke er utviklere. En av disse heter [mobprogrammering](mobprogrammering.md)
 
 # Kilder/videre inspirasjon
 

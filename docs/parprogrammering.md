@@ -59,6 +59,10 @@ For å endre testmiljøet til å bare bry seg om å teste den nye funksjonen må
 
 ![Viser ny ava config](../images/ava.config.png)
 
+Dere kan prøve å lage deres egne brukerhistorier.
+
+Hvis ikke kan dere følge de som er laget i [docs/brukerhistorier.md](brukerhistorier.md)
+
 # Kilder/videre inspirasjon
 
 - https://gds.blog.gov.uk/2018/02/06/how-to-pair-program-effectively-in-6-steps/

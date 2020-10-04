@@ -14,7 +14,7 @@ En introduksjon til testdrevet utvikling og parprogrammering
 - Du må ha [Node.js](https://nodejs.org/en/) versjon 14 eller nyere installert på maskinen din
 - Du må ha en teksteditor, for eksempel [Visual Studio Code](https://code.visualstudio.com/)
 - Hent ned dette repoet på maskinen din
-- Åpne terminalen i VS Code (View -> Termina)
+- Åpne terminalen i VS Code (View -> Terminal)
 - I terminalen skriver du `npm run setup`
 - Da er vi klare
 

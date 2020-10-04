@@ -30,3 +30,5 @@ Da kan du trygt starte å refaktorere koden din fordi du vet at dersom du gjør 
 Testen består fortsatt og da kan vi, dersom vi ønsker, refaktorere videre.
 Det er for eksempel ikke så tydelig å lese koden og forstå hva a og b er.
 Vi kan for eksempel erstatte de med tall1 og tall2, eller bruke det helt korrekte addend1 og addend2
+
+![Funksjon som returnerer summen av 2 tall](../images/kalkulator-trinn-3.png)

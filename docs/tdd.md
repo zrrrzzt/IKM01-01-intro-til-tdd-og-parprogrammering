@@ -33,7 +33,7 @@ Vi kan for eksempel erstatte de med tall1 og tall2, eller bruke det helt korrekt
 
 ![Funksjon som returnerer summen av 2 tall](../images/kalkulator-trinn-3.png)
 
-# Oppgave
+## Oppgave
 
 Koden vi har laget nå ligger i filen [lib/kalkulator.js](../lib/kalkulator.js).
 Testene ligger i [test/kalkulator.test.js](../test/kalkulator.test.js)
@@ -47,4 +47,32 @@ For å kjøre testene åpner du terminalen i VS Code (View => Terminal) og du sk
 Tips: Om du vil testene skal kjøre hver gang du lagrer kan du bruke `npm run watch:test`.
 Når du vil slå av automatikken bruker du tastekombinasjonen [control] + [c]. Det kommer en stygg feilmelding, men det er helt ok :-)
 
+### Bonusoppgave
 
+Vi ønsker å teste flere kombinasjoner av det å legge sammen tall.
+Faktisk ønsker vi å teste for alle tall fra 1 til 100.
+Men, å skrive over 100 tester er heldigvis ikke nødvendig.
+Tester er funksjoner og funksjoner kan kalles av andre funksjoner.
+Hvordan ville du løst dette?
+
+# Sammendrag
+
+TDD krever ofte litt endring av tankesett, men når man kommer inn i det virker det veldig naturlig.
+Du flytter jobben med å tenke på hva koden skal gjøre til testene og deretter skriver du en av de mulige løsningen dette kan gjøres på. Deretter kan du endre koden i ettertid med litt større trygget.
+
+For å få best mulig utbytte av testene bør de være
+- Lesbare, så det fremgår tydelige hva du tester
+- Isolerte, så du tester kun en liten del av koden ved hver test
+- Grundige, så du kan avsløre edge-cases
+- Tydelige, så man kan forstår formålet utfra å lese testene
+
+## Veien videre
+
+- TDD funker fint alene, men enda bedre med [parprogrammering](parprogrammering.md)
+
+## Kilder
+
+- https://dev.to/wolfdominion/introduction-to-tdd-what-it-is-and-why-it-is-important-2hhf
+- https://dev.to/rafinskipg/a-beginners-guide-to-tdd-javascript-2oj9
+- https://www.pluralsight.com/guides/introduction-to-test-driven-development-in-javascript
+- https://github.com/avajs/ava

@@ -21,7 +21,7 @@ Vi skal bare skrape litt på overflaten, men jeg håper det er nok til at du for
 - I terminalen skriver du `npm run setup`
 - Da er vi klare
 
-# Innholdfortegnelse
+# Innholdsfortegnelse
 
 - [TDD](docs/tdd.md)
 - [Parprogrammering](docs/parprogrammering.md)

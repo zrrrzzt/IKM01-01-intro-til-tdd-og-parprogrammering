@@ -5,4 +5,3 @@
 - som bruker ønsker jeg å få "ja" dersom jeg har fri i morgen og "nei" hvis jeg ikke har det slik at jeg vet om jeg kan være hjemme eller ikke
 - som bruker ønsker jeg å kunne sende inn en hvilken som helst dato i år og få "ja" dersom jeg har fri den dagen og "nei" hvis ikke slik at jeg vet om jeg kan være hjemme eller ikke
 - som bruker ønsker jeg å kunne sende inn en hvilken som helst dato i 2020 eller 2021 og få "ja" tilbake om jeg har fri den dagen og "nei" hvis ikke slik at jeg vet om jeg kan kose meg hjemme.
-

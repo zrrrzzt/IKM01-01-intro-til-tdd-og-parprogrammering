@@ -6,7 +6,7 @@ Vi skal bare skrape litt på overflaten, men jeg håper det er nok til at du for
 
 ## Om workshopen
 
-- Vi skal gå gjennom prinsippene for TDD (testdrevet utvikling)
+- Vi skal lære prinsippene for TDD (testdrevet utvikling)
 - Vi skal prøve TDD gjennom å lage en veldig enkel kalkulator
 - Vi skal lære om parprogrammering
 - Vi skal lage verdens nyttigste funksjon gjennom parprogrammering og TDD
@@ -16,6 +16,7 @@ Vi skal bare skrape litt på overflaten, men jeg håper det er nok til at du for
 - Du må ha [Node.js](https://nodejs.org/en/) versjon 14 eller nyere installert på maskinen din
 - Du må ha en teksteditor, for eksempel [Visual Studio Code](https://code.visualstudio.com/)
 - Hent ned dette repoet på maskinen din
+- Åpne repoet i VS Code
 - Åpne terminalen i VS Code (View -> Terminal)
 - I terminalen skriver du `npm run setup`
 - Da er vi klare

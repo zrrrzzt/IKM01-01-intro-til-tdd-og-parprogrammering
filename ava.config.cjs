@@ -1,6 +1,6 @@
 module.exports = {
   files: [
-    'test/kalkulator.test.js'
+    'tests/kalkulator.test.js'
   ]
 }
 
@@ -8,7 +8,7 @@ module.exports = {
  * Bruk denne når du jobber med harjegfri
  * module.exports = {
   files: [
-    'test/harjegfri.test.js'
+    'tests/harjegfri.test.js'
   ]
 }
  */

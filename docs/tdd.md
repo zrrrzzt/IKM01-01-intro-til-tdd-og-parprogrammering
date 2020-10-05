@@ -36,7 +36,7 @@ Vi kan for eksempel erstatte de med tall1 og tall2, eller bruke det helt korrekt
 ## Oppgave
 
 Koden vi har laget nå ligger i filen [lib/kalkulator.js](../lib/kalkulator.js).
-Testene ligger i [test/kalkulator.test.js](../test/kalkulator.test.js)
+Testene ligger i [tests/kalkulator.test.js](../tests/kalkulator.test.js)
 
 Disse filene skal du nå jobbe videre med selv.
 Oppgavene er at du skal implementere funksjonalitet for subtraksjon, multiplikasjon og divisjon i kalkulatoren.

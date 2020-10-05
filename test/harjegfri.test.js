@@ -1,5 +1,5 @@
 /**
- * I Node bruker man require for å hente inn moduler
+ * I Node bruker man require for å hente inn moduler fra andre steder
  * Man oppgir navnet på modulen dersom man har installert den slik vi gjør med ava
  * Man oppgir banen til modulen dersom der er en lokal fil
  * ".." betyr opp et nivå i katalogstrukturen, dersom du skal hente en fil i samme katalog du står så bruker du "./"

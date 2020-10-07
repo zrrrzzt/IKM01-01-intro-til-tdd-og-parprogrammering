@@ -3,7 +3,7 @@
  * Man oppgir navnet på modulen dersom man har installert den slik vi gjør med ava
  * Man oppgir banen til modulen dersom der er en lokal fil
  * ".." betyr opp et nivå i katalogstrukturen, dersom du skal hente en fil i samme katalog du står så bruker du "./"
- * { navn } brukes for å sette flere variabler samtidig
+ * { navn } brukes her for å sette flere variabler samtidig, det kalles destructuring assignement (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
  */
 
 const test = require('ava')

@@ -76,3 +76,4 @@ For å få best mulig utbytte av testene bør de være
 - https://dev.to/rafinskipg/a-beginners-guide-to-tdd-javascript-2oj9
 - https://www.pluralsight.com/guides/introduction-to-test-driven-development-in-javascript
 - https://github.com/avajs/ava
+- [_Test-Driven Development: By Example_ av Kent Beck](https://books.google.no/books?id=CUlsAQAAQBAJ&printsec=frontcover&dq=bibliogroup:%22The+Addison-Wesley+signature+series%22&hl=en&sa=X&ved=2ahUKEwipz4baoKfsAhXj-SoKHcs0Cy4Q6AEwB3oECAgQAg#v=onepage&q&f=false)

@@ -4,7 +4,7 @@
 
 2. Ikke stopp ved første versjon av koden (og ikke bli for forelska i koden du har skrevet). Lær og lær igjen om problemet du skal løse, og kast/endre kode ettersom du lærer mer. 
 
-3. Les om clean code, refactoring og design patterns.
+3. Komplisert kode er vanskelig å jobbe med så gjør innsats for å gjøre den enklere og tydeligere. Lær om clean code, refactoring og design patterns.
 
 4. Skriv enhetstester for å finne, rette og unngå feil i koden.
 

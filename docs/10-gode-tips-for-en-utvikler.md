@@ -2,7 +2,7 @@
 
 1. Skriv kode for mennesker. Du kommer til å bruke mer tid på å lese kode enn å skrive den.
 
-2. Bruk et byggverktøy, slik som Maven og Gradle, for å håndtere eksterne biblioteker og rammeverk (avhengigheter).
+2. Ikke stopp ved første versjon av koden (og ikke bli for forelska i koden du har skrevet). Lær og lær igjen om problemet du skal løse, og kast/endre kode ettersom du lærer mer. 
 
 3. Les om clean code, refactoring og design patterns.
 
@@ -19,3 +19,5 @@
 9. Øvelse gjør mester. Øv på programmeringsoppgaver med Code Katas og Code Golf
 
 10. Engasjer deg i fagmiljøer og delta på konferanser og kurs. Teknologi endrer seg raskt, og du kan dermed holde deg oppdatert.
+
+

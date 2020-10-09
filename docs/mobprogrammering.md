@@ -1,6 +1,6 @@
 # Mobprogrammering
 
-Tanken bak mobprogrammering er at alle jobber med det samme problemet, samtidig, på samme datamaskin.
+Tanken bak mobprogrammering<sup id="a1">[1](#f1)</sup> er at alle jobber med det samme problemet, samtidig, på samme datamaskin.
 Det blir ikke flere kokker og mere søl, men er en god metode for at man får inn flere perspektiver og at man utnytter den ulike kompetansen alle i rommet har.
 
 ## Mobben er for alle
@@ -24,3 +24,7 @@ Plutselig sitter alle som er involvert i produktet i samme rom og snakker om det
 
 - https://gds.blog.gov.uk/2016/09/01/using-mob-programming-to-solve-a-problem/
 - https://blogg.kantega.no/mob-programmering-utvikling-i-flokk/
+
+-----
+
+<b id="f1">1</b> Uttrykket kommer fra engelsk [_mob programming_](https://en.wikipedia.org/wiki/Mob_programming), som betyr noe slikt som _gjengprogrammering_ eller _flokkprogrammering_. Og om vi sier _mobbing_ så mener vi mobprogrammering. Vi er veldig tilhengere av at alle er snille med hverandre … [↩](#a1)

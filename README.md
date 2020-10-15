@@ -15,7 +15,7 @@ Vi skal bare skrape litt på overflaten, men jeg håper det er nok til at du for
 
 - Du må ha [Node.js](https://nodejs.org/en/) versjon 14 eller nyere installert på maskinen din
 - Du må ha en teksteditor, for eksempel [Visual Studio Code](https://code.visualstudio.com/)
-- Hent ned dette repoet på maskinen din
+- Hent ned dette repoet på maskinen din ([Slik gjør du det](docs/hente-repo.md))
 - Åpne repoet i VS Code
 - Åpne terminalen i VS Code (View -> Terminal)
 - I terminalen skriver du `npm run setup`
